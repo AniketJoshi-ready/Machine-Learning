@@ -6,57 +6,14 @@ This repository contains a collection of **Machine Learning projects and case st
 
 ## 📌 Projects
 
-### 1. Titanic Survival Predictor – Decision Trees & Logistic Regression
-
-Predicts passenger survival on the Titanic dataset using classification models.
-
-### 2. Diabetes Detection – Health Classification
-
-Detects diabetes based on medical diagnostic data using supervised ML.
-
-### 3. Breast Cancer Detection – Logistic Regression & SVM
-
-Binary classification of breast cancer tumors for early detection.
-
-### 4. Ad Click Predictor
-
-Predicts the probability of a user clicking on an advertisement.
-
-### 5. Wine Classifier – KNN & Random Forest
-
-Classifies wine quality based on chemical features.
-
-### 6. Head Brain Classification
-
-Applies regression and classification models to analyze head-brain size data.
-
-### 7. House Price Prediction
-
+### 1. House Price Prediction
 Regression-based model for predicting real estate property prices.
 
-### 8. Iris Classifier – Decision Tree & KNN
-
+### 2. Iris Classifier – Decision Tree & KNN
 Classifies Iris flower species using classic ML models.
 
-### 9. Advertisement Predictor
-
-Predicts user response probability for advertisements.
-
-### 10. Customer Segmentation – K-Means Clustering
-
-Segments customers into groups based on purchasing behavior.
-
-### 11. Movie Recommendation System – K-Means
-
-Recommends movies using unsupervised clustering.
-
-### 12. Loan Default Prediction – Random Forest & Gradient Boosting
-
-Predicts loan defaults using ensemble methods.
-
-### 13. Sentiment Analysis Enhancement – Bagging & Boosting
-
-Improves sentiment classification using ensemble learning techniques.
+### 3. Breast Cancer Detection – Logistic Regression 
+Binary classification of breast cancer tumors for early detection.
 
 ---
 
