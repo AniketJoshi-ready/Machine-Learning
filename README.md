@@ -21,4 +21,4 @@ Binary classification of breast cancer tumors for early detection.
 
 * Covers **classification, regression, clustering, and ensemble learning**.
 * Implements popular ML algorithms: Decision Trees, Logistic Regression, SVM, KNN, Random Forest, Gradient Boosting, etc.
-* Practical case studies with da
+* Practical case studies with datasets
